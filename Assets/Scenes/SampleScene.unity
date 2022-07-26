@@ -974,7 +974,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _spawnPointParent: {fileID: 1730243816}
-  _enemy: {fileID: 7041806645088666966, guid: 332b21a684312b34798ace98affe4eed, type: 3}
+  _enemy: {fileID: 4008614647985597230, guid: 332b21a684312b34798ace98affe4eed, type: 3}
 --- !u!4 &1730243818
 Transform:
   m_ObjectHideFlags: 0
